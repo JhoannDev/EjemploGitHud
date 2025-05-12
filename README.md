@@ -1,2 +1,12 @@
-# EjemploGitHud
-Es un proyecto de ejemplo.
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo GitHub</title>
+</head>
+<body>
+    <h1>Ejemplo GitHub</h1>
+    <p>Es un proyecto de ejemplo.</p>
+</body>
+</html>
