@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Ejemplo GitHub</h1>
-    <p>Es un proyecto de ejemplo.</p>
+    <p>Proyecto final.</p>
 </body>
 </html>
